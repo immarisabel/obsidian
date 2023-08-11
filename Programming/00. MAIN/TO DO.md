@@ -6,4 +6,8 @@
 		- [ ] host my personal blog for when I want to also just go offline.
 			- [ ] create a backup page that when I go offline, it redirects saying I am offline and my page will be just like me. Online if I am online, offline if I am offline (like on holidays)
 			- [ ] how to do so that I can just transfer to a new server if I decide to buy in the future a static little computer?
-- [ ] create obsidian backup on github
+- [x] create obsidian backup on github
+- [ ] install mySQL server
+- [ ] install php server
+- [ ] install git on linux to be able to get my repos to deploy
+- [ ] 
