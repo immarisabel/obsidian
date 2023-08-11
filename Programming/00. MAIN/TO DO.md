@@ -1,3 +1,4 @@
+- [ ] **books library json file**
 - [ ] set up website name with http://192.168.1.32
 	- im.marisabel.nl
 - [ ] plan the structure and content of the website here in obsidian before working any kind of styling.
@@ -10,4 +11,4 @@
 - [ ] install mySQL server
 - [ ] install php server
 - [ ] install git on linux to be able to get my repos to deploy
-- [ ] 
+- [ ] learn how to deploy spring boot on linux

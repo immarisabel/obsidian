@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38d7976ca0631fa3",
+        "id": "0625ce5216b94d05",
         "type": "tabs",
         "children": [
           {
-            "id": "4d20e4cfd772ce6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "imReading/TO DO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "749a6b0e93778c1c",
+            "id": "8966423f17e341ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +20,19 @@
             }
           },
           {
-            "id": "07e0d444f15b5a11",
+            "id": "fdb952cd2a0b047f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring boot - Deploying on Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc215e2ab1dc352a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. centOS LINUX/IMPORTANT.md",
+                "file": "Blog/Library WIP updating.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring boot - Deploying on Linux.md",
+                "file": "Blog/Library WIP updating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,17 +137,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07e0d444f15b5a11",
+  "active": "fdb952cd2a0b047f",
   "lastOpenFiles": [
+    "Blog/books 2014 -.md",
+    "Blog/Library WIP updating.md",
+    "2012-2019 f2079825042f499a845ed3ac54919c4d_all.csv",
+    "2012-2019 f2079825042f499a845ed3ac54919c4d.csv",
     "00. MAIN/TO DO.md",
+    "Blog",
+    "00. MAIN/Git Cheat Sheet.md",
+    "01. centOS LINUX/Set up Servers/Web Server.md",
+    "01. centOS LINUX/centOS.pdf",
+    "01. centOS LINUX/IMPORTANT.md",
     "Spring boot - Deploying on Linux.md",
     "Projects",
-    "01. centOS LINUX/IMPORTANT.md",
-    "imReading/TO DO.md",
-    "00. MAIN/Git Cheat Sheet.md",
+    "Projects/imReading/TO DO.md",
     "01. centOS LINUX/SHH KEY.md",
     "00. MAIN",
-    "01. centOS LINUX/Set up Servers/Web Server.md",
     "01. centOS LINUX/Set up Servers",
     "Untitled.canvas",
     "01. centOS LINUX"
