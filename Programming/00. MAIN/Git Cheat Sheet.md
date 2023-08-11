@@ -10,3 +10,12 @@
 |                       |                                             |                |
 https://git-scm.com/book/en/v2
 
+
+
+### Obsidian Repo
+`cd C:/Users/Administrator/OneDrive/OBSIDIAN NOTES`
+```git
+git add .
+git commit -m "message"
+git push
+```
