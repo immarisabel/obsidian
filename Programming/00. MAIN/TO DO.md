@@ -1,0 +1,9 @@
+- [ ] set up website name with http://192.168.1.32
+	- im.marisabel.nl
+- [ ] plan the structure and content of the website here in obsidian before working any kind of styling.
+	- [ ] purpose?
+		- [ ] host projects for when applying for jobs
+		- [ ] host my personal blog for when I want to also just go offline.
+			- [ ] create a backup page that when I go offline, it redirects saying I am offline and my page will be just like me. Online if I am online, offline if I am offline (like on holidays)
+			- [ ] how to do so that I can just transfer to a new server if I decide to buy in the future a static little computer?
+- [ ] create obsidian backup on github

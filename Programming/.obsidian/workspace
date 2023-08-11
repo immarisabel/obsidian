@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "495d785ea99a7df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1597be4e11bf7b4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "imReading/TO DO.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b3442f2f513421",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f224b52dafd3c0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5aa31d37e1a42d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0491262023d5297f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "637d7a4e1f0394e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1440534b88c3c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2470f9db3608d48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "imReading/TO DO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1597be4e11bf7b4f",
+  "lastOpenFiles": [
+    "imReading/TO DO.md"
+  ]
+}

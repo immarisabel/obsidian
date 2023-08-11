@@ -1,0 +1,12 @@
+- figure out the add book / see books flow on the controller
+- fix book form to match website
+- view logs set up  with ALL entries
+- view logs according to clicked book
+- books views by status and favorite
+- design if it is a favorite? Star? Heart?
+	- how to do it like normal websites, just clicking on it and nothing else?
+- reading percentage? 
+	- add page number to book entity
+	- update book with reading page number from log
+- format date from YYYY/MM/DD to DD Month YYYY
+- interactive navigation where it geys out if on a page
