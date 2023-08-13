@@ -11,8 +11,12 @@
             "id": "da88f8c61fd8a223",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Blog/git flow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blog/git flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +126,10 @@
   },
   "active": "da88f8c61fd8a223",
   "lastOpenFiles": [
-    "00. MAIN/tasks.md",
+    "Blog/code/css/tufte css.md",
+    "Blog/git flow.md",
     "00. MAIN/TO DO.md",
+    "00. MAIN/tasks.md",
     "Projects/Encrypted Chat/Idea.md",
     "Projects/Encrypted Chat/pseudo code.md",
     "01. centOS LINUX/SHH KEY.md",
