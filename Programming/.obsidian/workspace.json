@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. centOS LINUX/NETWORK.md",
+                "file": "00. MAIN/Git Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "637d7a4e1f0394e6",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. centOS LINUX/NETWORK.md",
+                "file": "00. MAIN/Git Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +124,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed5aa31d37e1a42d",
+  "active": "055746351247ab43",
   "lastOpenFiles": [
-    "01. centOS LINUX/commands.md",
     "01. centOS LINUX/NETWORK.md",
+    "01. centOS LINUX/commands.md",
     "01. centOS LINUX/SHH KEY.md",
     "01. centOS LINUX/Set up Servers/Web Server.md",
     "00. MAIN/TO DO.md",
