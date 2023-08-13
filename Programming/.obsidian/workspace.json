@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. MAIN/tasks.md",
+                "file": "Projects/Encrypted Chat/Idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. MAIN/tasks.md",
+                "file": "Projects/Encrypted Chat/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,21 +126,21 @@
   },
   "active": "055746351247ab43",
   "lastOpenFiles": [
-    "00. MAIN/Git Cheat Sheet.md",
-    "01. centOS LINUX/NETWORK.md",
-    "01. centOS LINUX/commands.md",
-    "01. centOS LINUX/SHH KEY.md",
-    "01. centOS LINUX/Set up Servers/Web Server.md",
-    "00. MAIN/TO DO.md",
-    "00. MAIN/tasks.md",
-    "Projects/imReading/TO DO.md",
     "Projects/Encrypted Chat/pseudo code.md",
+    "01. centOS LINUX/SHH KEY.md",
+    "01. centOS LINUX/NETWORK.md",
+    "00. MAIN/TO DO.md",
+    "01. centOS LINUX/IMPORTANT.md",
+    "00. MAIN/tasks.md",
+    "00. MAIN/Git Cheat Sheet.md",
+    "01. centOS LINUX/commands.md",
+    "01. centOS LINUX/Set up Servers/Web Server.md",
+    "Projects/imReading/TO DO.md",
     "Projects/Encrypted Chat/Idea.md",
     "Projects/ActivityPub implementation/Resources.md",
     "Spring boot - Deploying on Linux.md",
     "browser terminal.md",
     "01. centOS LINUX/centOS.pdf",
-    "01. centOS LINUX/IMPORTANT.md",
     "00. MAIN/TASKS.md",
     "Blog/code/css",
     "Blog/code",
