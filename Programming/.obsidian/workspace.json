@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. MAIN/Git Cheat Sheet.md",
+                "file": "00. MAIN/tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. MAIN/Git Cheat Sheet.md",
+                "file": "00. MAIN/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +126,13 @@
   },
   "active": "055746351247ab43",
   "lastOpenFiles": [
+    "00. MAIN/Git Cheat Sheet.md",
     "01. centOS LINUX/NETWORK.md",
     "01. centOS LINUX/commands.md",
     "01. centOS LINUX/SHH KEY.md",
     "01. centOS LINUX/Set up Servers/Web Server.md",
     "00. MAIN/TO DO.md",
     "00. MAIN/tasks.md",
-    "00. MAIN/Git Cheat Sheet.md",
     "Projects/imReading/TO DO.md",
     "Projects/Encrypted Chat/pseudo code.md",
     "Projects/Encrypted Chat/Idea.md",
