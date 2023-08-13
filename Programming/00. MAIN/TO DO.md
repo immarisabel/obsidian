@@ -16,3 +16,5 @@
 - [ ] learn how to deploy spring boot on linux
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-centos-7
 aliases for command shortcuts
+
+#TODO 

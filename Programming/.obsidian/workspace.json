@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0625ce5216b94d05",
+        "id": "fca23b768d6a2d02",
         "type": "tabs",
         "children": [
           {
-            "id": "c2775e8a992aa871",
+            "id": "4ef8cf01e77d3450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. centOS LINUX/copy web files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "998a51bbd9896901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. MAIN/tasks.md",
+                "file": "Projects/imReading/TO DO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. MAIN/tasks.md",
+                "file": "Projects/imReading/TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,32 +124,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "998a51bbd9896901",
+  "active": "4ef8cf01e77d3450",
   "lastOpenFiles": [
-    "00. MAIN/TO DO.md",
-    "00. MAIN/tasks.md",
-    "01. centOS LINUX/copy web files.md",
-    "00. MAIN/TASKS.md",
-    "01. centOS LINUX/SHH KEY.md",
+    "Projects/Encrypted Chat/pseudo code.md",
+    "Projects/Encrypted Chat/Idea.md",
+    "Projects/ActivityPub implementation/Resources.md",
+    "Spring boot - Deploying on Linux.md",
     "browser terminal.md",
+    "00. MAIN/tasks.md",
+    "00. MAIN/TO DO.md",
     "01. centOS LINUX/Set up Servers/Web Server.md",
     "01. centOS LINUX/centOS.pdf",
+    "01. centOS LINUX/commands.md",
     "01. centOS LINUX/IMPORTANT.md",
+    "01. centOS LINUX/NETWORK.md",
+    "01. centOS LINUX/SHH KEY.md",
     "00. MAIN/Git Cheat Sheet.md",
+    "00. MAIN/TASKS.md",
     "Blog/code/css",
     "Blog/code",
     "Blog/Untitled.md",
     "Blog/Library WIP updating.md",
-    "Projects/ActivityPub implementation/Resources.md",
-    "Projects/Encrypted Chat/Sudo.md",
     "Projects/ActivityPub implementation",
-    "Projects/Encrypted Chat/Idea.md",
     "Projects/Encrypted Chat",
     "Blog/books 2014 -.md",
     "2012-2019 f2079825042f499a845ed3ac54919c4d_all.csv",
     "2012-2019 f2079825042f499a845ed3ac54919c4d.csv",
     "Blog",
-    "Spring boot - Deploying on Linux.md",
     "Projects",
     "Projects/imReading/TO DO.md",
     "00. MAIN",

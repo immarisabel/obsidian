@@ -26,3 +26,8 @@ I want to practice multiple things:
 9. **Deployment:** Deploy the server application on your Linux server and distribute the client application to the two computers that will communicate.
     
 10. **Security Considerations:** Keep security in mind during the entire process. Use strong encryption algorithms, validate user inputs, and follow best practices for securing your server and communication.
+
+---
+## tags
+
+#ideas #project #network 

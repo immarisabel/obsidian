@@ -50,3 +50,8 @@ public class TCPClient {
 3. **Implement Communication Logic:** Inside the `while` loop in the server and the communication section in the client, you can implement the logic for sending and receiving data between the client and the server using the `InputStream` and `OutputStream` provided by the `Socket` class.
     
 4. **Run the Applications:** Compile and run both the server and client applications. Make sure the server is running before you run the client.
+
+---
+## tags
+
+#server #ideas #project #code-demo

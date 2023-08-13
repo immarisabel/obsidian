@@ -15,12 +15,20 @@ this is my long list of things I should or will do.
 - [ ] finish the styling of personal blog (simpler)
 - [ ] brainstorm things to add here
 ## courses
+
 - [ ] [linux training][https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job]
 - [ ] [clean code with java][https://www.udemy.com/course-dashboard-redirect/?course_id=3525154]
 - [ ] [learn devOps][https://www.udemy.com/course-dashboard-redirect/?course_id=2813427]
 ## hobbies
+
 - [ ] update pikachu's mitttens
+- [ ] birthday gift
+- [ ] make 1st year dress and gift
 ## books
+
 - [ ] 🤖 Diaspora by Greg Egan  
 - [ ] 📖 The book of form and emptiness by Ruth Ozeki  
 - [ ] 🕊️ When we were birds by Ayanna Lloyd Banwo
+
+---
+#TODO

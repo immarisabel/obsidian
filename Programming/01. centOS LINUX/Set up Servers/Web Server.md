@@ -22,6 +22,7 @@ $ sudo systemctl enable --now httpd
 ```
 
 ## Open port 80
+
 ```shell
 $ sudo firewall-cmd --permanent --zone=public --add-service=http 
 $ sudo firewall-cmd --reload 
@@ -29,6 +30,7 @@ $ sudo firewall-cmd --list-all --zone=public
 ```
 
 ### Later to look for:
+
 ```shell
 [mari@vm ~]$ sudo firewall-cmd --list-all --zone=public
 public (active)
@@ -45,6 +47,13 @@ public (active)
   icmp-blocks:
   rich rules:
 ```
+#TODO
 
 # LOGS
+
 `$ sudo cat /var/log/httpd/access_log | grep -I download-this.txt`
+
+---
+## tags
+
+#linux  #server #config #commands 

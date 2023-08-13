@@ -10,3 +10,4 @@
 	- update book with reading page number from log
 - format date from YYYY/MM/DD to DD Month YYYY
 - interactive navigation where it geys out if on a page
+#TODO 
