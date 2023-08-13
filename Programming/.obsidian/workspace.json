@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "20da4dbfe7993677",
+        "id": "523a48af635ecfd8",
         "type": "tabs",
         "children": [
           {
-            "id": "055746351247ab43",
+            "id": "da88f8c61fd8a223",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Encrypted Chat/Idea.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Encrypted Chat/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,19 +119,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "055746351247ab43",
+  "active": "da88f8c61fd8a223",
   "lastOpenFiles": [
+    "00. MAIN/tasks.md",
+    "00. MAIN/TO DO.md",
+    "Projects/Encrypted Chat/Idea.md",
     "Projects/Encrypted Chat/pseudo code.md",
     "01. centOS LINUX/SHH KEY.md",
     "01. centOS LINUX/NETWORK.md",
-    "00. MAIN/TO DO.md",
     "01. centOS LINUX/IMPORTANT.md",
-    "00. MAIN/tasks.md",
     "00. MAIN/Git Cheat Sheet.md",
     "01. centOS LINUX/commands.md",
     "01. centOS LINUX/Set up Servers/Web Server.md",
     "Projects/imReading/TO DO.md",
-    "Projects/Encrypted Chat/Idea.md",
     "Projects/ActivityPub implementation/Resources.md",
     "Spring boot - Deploying on Linux.md",
     "browser terminal.md",
