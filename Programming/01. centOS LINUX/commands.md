@@ -1,3 +1,10 @@
+## networks
+
+`ip a`
+
+`sudo systemctl restart network
+`
+UUIDs : `nmcli connection show`
 
 ## copy web files
 

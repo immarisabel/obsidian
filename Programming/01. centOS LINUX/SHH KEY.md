@@ -22,6 +22,14 @@ Set the right permissions:
 `sudo nano /etc/ssh/sshd_config`
 `sudo service sshd restart`
 
+# ! Important:
+key needs to be named `id_rsa` to be accepted overall.
+
+# Check keys:
+```shell
+ls -al ~/.ssh
+```
+
 ---
 ## tags
 
