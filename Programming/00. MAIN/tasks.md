@@ -3,8 +3,8 @@ this is my long list of things I should or will do.
 
 ### projects
 
-- [ ] spring boot financial tracker - stuck on just editing category inside the form
-- [ ] picture organizer deployment jar
+- [x] spring boot financial tracker - stuck on just editing category inside the form
+- [x] picture organizer deployment jar
 - [ ] reading log - imReading - a journal for reading books
 ### website
 
