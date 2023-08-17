@@ -1,0 +1,28 @@
+{
+  "chroma": 32,
+  "lightness": 87,
+  "palette": 16,
+  "seed": 0,
+  "knownTags": {
+    "git": 1,
+    "commands": 2,
+    "TODO": 3,
+    "network": 4,
+    "linux": 5,
+    "ip": 6,
+    "config": 7,
+    "dcph": 8,
+    "server": 9,
+    "debian": 10,
+    "website": 11,
+    "resources": 12,
+    "protocols": 13,
+    "activitypub": 14,
+    "ideas": 15,
+    "project": 16,
+    "springboot": 17,
+    "security": 18,
+    "ssh": 19
+  },
+  "_version": 2
+}

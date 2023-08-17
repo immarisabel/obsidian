@@ -15,12 +15,19 @@ Set the right permissions:
 `chmod 600 ~/.ssh/authorized_keys`
 
 ### WINDOWS:
-`ssh-keygen -t rsa`
-`type $env:USERPROFILE\.ssh\id_rsa.pub | ssh {REMOTE_HOST} "cat >> .ssh/authorized_keys"`
+```
+ssh-keygen -t rsa
+type $env:USERPROFILE\.ssh\id_rsa.pub | ssh {REMOTE_HOST} "cat >> .ssh/authorized_keys"
+
+```
 
 ### Password disable:
-`sudo nano /etc/ssh/sshd_config`
-`sudo service sshd restart`
+```
+sudo nano /etc/ssh/sshd_config
+
+sudo service sshd restart
+
+```
 
 # ! Important:
 key needs to be named `id_rsa` to be accepted overall.
