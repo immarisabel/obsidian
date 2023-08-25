@@ -8,11 +8,11 @@ this is my long list of things I should or will do.
 - [ ] reading log - imReading - a journal for reading books
 ### website
 
-- [ ] finish reviewing my book reviews
+- [x] finish reviewing my book reviews
 - [ ] finish updating my list of books read 2014 - 2019
-- [ ] update the review links in the json
-- [ ] update dev website
-- [ ] finish the styling of personal blog (simpler)
+- [x] update the review links in the json
+- [x] update dev website
+- [x] finish the styling of personal blog (simpler)
 - [ ] brainstorm things to add here
 ### courses
 
@@ -26,10 +26,9 @@ this is my long list of things I should or will do.
 - [ ] make 1st year dress and gift
 ### books
 
-- [ ] 🤖 Diaspora by Greg Egan  
 - [ ] 📖 The book of form and emptiness by Ruth Ozeki  
 - [ ] 🕊️ When we were birds by Ayanna Lloyd Banwo
-
+- [ ] 🤖 Diaspora by Greg Egan  
 ---
 #### tags
 

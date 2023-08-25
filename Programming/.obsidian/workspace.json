@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/git flow.md",
+                "file": "OS/02. DebianOS LINUX/Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29f43a20f2b8d491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. MAIN/tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/git flow.md",
+                "file": "00. MAIN/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,43 +138,43 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "68437373d9aca050",
+  "active": "ed5aa31d37e1a42d",
   "lastOpenFiles": [
-    "Blog/code/css/tufte css.md",
+    "00. MAIN/TO DO.md",
     "Encrypted/SSH WINDOWS Known Hosts 20230817 111210.encrypted",
+    "OS/02. DebianOS LINUX/Network.md",
+    "OS",
+    "Clouds",
+    "Blog/Library WIP updating.md",
+    "Blog/Untitled.md",
+    "Clouds/Azure/Info.md",
+    "Clouds/Azure",
+    "Database/install and config.md",
+    "Database",
+    "00. MAIN/SHH KEY.md",
+    "OS/02. DebianOS LINUX/Packages Installed.md",
+    "OS/02. DebianOS LINUX/Packages to install.md",
+    "Blog/git flow.md",
+    "Blog/code/css/tufte css.md",
     "References/Spring boot - Deploying on Linux.md",
     "References/browser terminal.md",
     "Encrypted/ssh windows bu.md",
     "Encrypted",
     "References",
-    "00. MAIN/SHH KEY.md",
-    "01. centOS LINUX/Set up Servers/Web Server.md",
-    "02. DebianOS LINUX/Network.md",
-    "02. DebianOS LINUX/Commands.md",
+    "OS/01. centOS LINUX/Set up Servers/Web Server.md",
+    "OS/02. DebianOS LINUX/Commands.md",
     "Projects/imReading/database.md",
-    "02. DebianOS LINUX/Web Server/Firewall.md",
-    "02. DebianOS LINUX/Web Server",
-    "01. centOS LINUX/NETWORK.md",
-    "02. DebianOS LINUX/Packages Installed.md",
-    "02. DebianOS LINUX/Packages to install.md",
+    "OS/02. DebianOS LINUX/Web Server/Firewall.md",
+    "OS/02. DebianOS LINUX/Web Server",
+    "OS/01. centOS LINUX/NETWORK.md",
     "Projects/Encrypted Chat/pseudo code.md",
     "Projects/imReading/TO DO.md",
     "00. MAIN/Git Cheat Sheet.md",
-    "01. centOS LINUX/commands.md",
-    "02. DebianOS LINUX",
-    "Blog/git flow.md",
-    "00. MAIN/TO DO.md",
+    "OS/01. centOS LINUX/commands.md",
+    "OS/02. DebianOS LINUX",
     "00. MAIN/tasks.md",
     "Projects/Encrypted Chat/Idea.md",
-    "01. centOS LINUX/IMPORTANT.md",
-    "Projects/ActivityPub implementation/Resources.md",
-    "01. centOS LINUX/centOS.pdf",
-    "00. MAIN/TASKS.md",
-    "Blog/code/css",
-    "Blog/code",
-    "Blog/Untitled.md",
-    "Projects/ActivityPub implementation",
-    "Projects/Encrypted Chat",
+    "OS/01. centOS LINUX/centOS.pdf",
     "Untitled.canvas"
   ]
 }
