@@ -1,6 +1,6 @@
 - [ ] add old books ⬅ WIP
-- [ ] finish publishing the reviews
-- [ ] add review links
+- [x] finish publishing the reviews
+- [x] add review links
 
 ![[2012-2019 f2079825042f499a845ed3ac54919c4d.csv]]
 ![[2012-2019 f2079825042f499a845ed3ac54919c4d_all.csv]]
