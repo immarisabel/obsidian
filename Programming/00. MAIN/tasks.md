@@ -19,6 +19,9 @@ this is my long list of things I should or will do.
 - [ ] [linux training][https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job]
 - [ ] [clean code with java][https://www.udemy.com/course-dashboard-redirect/?course_id=3525154]
 - [ ] [learn devOps][https://www.udemy.com/course-dashboard-redirect/?course_id=2813427]
+- [ ] [spring security][https://www.youtube.com/watch?v=nSu9ElsnNtY&list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP&pp=iAQB]
+	[marathon][https://www.youtube.com/watch?v=f-KV3tlTHkU&list=PLEocw3gLFc8UnSjz8Fy35UrO6zUZUPbgx&index=3]
+	[OAuth Marathon][https://www.youtube.com/watch?v=ZIS4273AAGI&list=PLEocw3gLFc8UnSjz8Fy35UrO6zUZUPbgx&index=4]
 ### hobbies
 
 - [ ] update pikachu's mitttens
