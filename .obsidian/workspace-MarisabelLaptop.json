@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "68a062b3b5726896",
+    "id": "5014c9f18f9805c8",
     "type": "split",
     "children": [
       {
-        "id": "56b5609c536a0f51",
+        "id": "5aac0cef85eaacc6",
         "type": "tabs",
         "children": [
           {
-            "id": "aeb475de75033780",
+            "id": "30fa1a8b65e0ca8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/00. MAIN/tasks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9e473043ec85e273",
+    "id": "adc12971e79b7efc",
     "type": "split",
     "children": [
       {
-        "id": "0f2195518b86ce20",
+        "id": "2a442fedcc5d3249",
         "type": "tabs",
         "children": [
           {
-            "id": "3525d0631443b5e4",
+            "id": "bef785782b0e6ce1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "8a10d1539651ecc9",
+            "id": "acb6954dc61aebd9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "b5db3d55e8e3e58b",
+            "id": "87301e71ea25b8de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "6e42d38c232b520c",
+    "id": "550b74b40a69d5d9",
     "type": "split",
     "children": [
       {
-        "id": "e1d6386a61c0b569",
+        "id": "d34c201dd4795fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "33f32a2247b2adfb",
+            "id": "e8fdc13a4041e881",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/00. MAIN/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "d90faeb91bc9e73b",
+            "id": "f67a4d02343afc95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/00. MAIN/tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1be1a49f3ec028aa",
+            "id": "c3e9db51ddd45d60",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "cc1ed8d3511f1d6d",
+            "id": "686dfcccee58e92c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/00. MAIN/tasks.md"
+              }
             }
           }
         ]
@@ -138,6 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aeb475de75033780",
-  "lastOpenFiles": []
+  "active": "30fa1a8b65e0ca8a",
+  "lastOpenFiles": [
+    "[.md",
+    "Programming/00. MAIN/tasks.md",
+    "Programming/00. MAIN/TO DO.md",
+    "Programming/00. MAIN/SHH KEY.md",
+    "Programming/00. MAIN/Git Cheat Sheet.md",
+    "Programming/Blog/git flow for web server on VM.md",
+    "Programming/Blog/Library WIP updating.md",
+    "Programming/Blog/uncopyrighted idea for tech blog.md",
+    "Programming/References/browser terminal.md",
+    "Programming/OS/02. DebianOS LINUX/Commands.md"
+  ]
 }
