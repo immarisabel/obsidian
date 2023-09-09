@@ -1,3 +1,5 @@
+https://dade2.net/kb/how-to-install-apache-mysql-and-php-on-almalinux-8/
+
 https://www.redhat.com/sysadmin/install-apache-web-server
 
 ```shell

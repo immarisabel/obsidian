@@ -14,6 +14,13 @@ UUIDs : `nmcli connection show`
 
 `scp C:\Users\Administrator\Documents\Programming\WEBSITE\vm-site\index.html mari@192.168.1.33:/var/www/html/index.html`
 
+### Find apps
+```
+rpm -qa | grep '^a'
+
+```
+
+https://dade2.net/kb/how-install-phpmyadmin-on-almalinux-8/
 ---
 ## tags
 

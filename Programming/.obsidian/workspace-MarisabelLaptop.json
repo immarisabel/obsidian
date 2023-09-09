@@ -8,30 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68437373d9aca050",
+            "id": "29f43a20f2b8d491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-file-content-view",
               "state": {
-                "file": "OS/01. ALMA LINUX/3. SQL.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/imReading/DATACONFIG-SB-IRAPI.encrypted"
               }
             }
           },
           {
-            "id": "29f43a20f2b8d491",
+            "id": "ca1ec2493e9a0a1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "OS/01. ALMA LINUX/3. SQL.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.5"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/01. ALMA LINUX/3. SQL.md",
+                "file": "Projects/imReading/DATACONFIG-SB-IRAPI.encrypted",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,29 +134,33 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "68437373d9aca050",
+  "active": "ca1ec2493e9a0a1f",
   "lastOpenFiles": [
-    "OS/01. ALMA LINUX/1. NETWORK.md",
-    "OS/01. ALMA LINUX/3. SQL.md",
-    "OS/01. ALMA LINUX/0. SETTING UP DEV ENV.md",
-    "OS/01. ALMA LINUX/commands.md",
-    "OS/01. ALMA LINUX/DEPLOYMENT.md",
-    "OS/01. ALMA LINUX/Set up Servers/Web Server.md",
-    "OS/01. ALMA LINUX/Set up Servers/mySql.md",
-    "OS/01. ALMA LINUX/Set up Servers/PHP.md",
-    "OS/01. ALMA LINUX/centOS.pdf",
-    "00. MAIN/SHH KEY.md",
-    "Projects/imReading/DATACONFIG-SB-IRAPI.encrypted",
+    "Clouds/Azure/azure.encrypted",
     "Projects/imReading/database.md",
-    "Azure/azure.encrypted",
-    "Azure/Info.md",
+    "Projects/imReading/DATACONFIG-SB-IRAPI.encrypted",
+    "Encrypted/Databases.encrypted",
+    "Encrypted/hoppscotch config.encrypted",
+    "Database/Postgres.md",
     "Database/install and config.md",
-    "02. DebianOS LINUX/Network.md",
-    "Azure",
-    "Database",
+    "OS/02. DebianOS LINUX/Network.md",
+    "Encrypted/Databases.md",
     "Encrypted/SSH WINDOWS Known Hosts 20230817 111210.encrypted",
-    "02. DebianOS LINUX/Packages Installed.md",
-    "02. DebianOS LINUX/Packages to install.md",
+    "Projects/imReading/TO DO.md",
+    "00. MAIN/Git Cheat Sheet.md",
+    "Projects/ActivityPub implementation/Resources.md",
+    "00. MAIN/TO DO.md",
+    "00. MAIN/tasks.md",
+    "00. MAIN/SHH KEY.md",
+    "OS",
+    "Clouds",
+    "Blog/Library WIP updating.md",
+    "Blog/Untitled.md",
+    "Clouds/Azure/Info.md",
+    "Clouds/Azure",
+    "Database",
+    "OS/02. DebianOS LINUX/Packages Installed.md",
+    "OS/02. DebianOS LINUX/Packages to install.md",
     "Blog/git flow.md",
     "Blog/code/css/tufte css.md",
     "References/Spring boot - Deploying on Linux.md",
@@ -167,14 +168,10 @@
     "Encrypted/ssh windows bu.md",
     "Encrypted",
     "References",
-    "01. centOS LINUX/Set up Servers/Web Server.md",
-    "02. DebianOS LINUX/Commands.md",
-    "02. DebianOS LINUX/Web Server/Firewall.md",
-    "02. DebianOS LINUX/Web Server",
-    "01. centOS LINUX/NETWORK.md",
-    "Projects/Encrypted Chat/pseudo code.md",
-    "Projects/imReading/TO DO.md",
-    "02. DebianOS LINUX",
+    "OS/01. centOS LINUX/Set up Servers/Web Server.md",
+    "OS/02. DebianOS LINUX/Commands.md",
+    "OS/02. DebianOS LINUX/Web Server/Firewall.md",
+    "OS/01. centOS LINUX/NETWORK.md",
     "Untitled.canvas"
   ]
 }
