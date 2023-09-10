@@ -1,0 +1,14 @@
+[Unit]
+Description=Springboot port 8090
+After=syslog.target
+
+[Service]
+User=username
+ExecStart=/software/java/openjdk17/jdk-17.0.1/bin/java -jar /usr/share/java/demo.jar --server.port=8090
+SuccessExitStatus=143
+TimeoutStopSec=10
+Restart=on-failure
+RestartSec=5
+
+[Install] 
+WantedBy=multi-user.target

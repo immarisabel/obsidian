@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/01. ALMA LINUX/3. SQL.md",
+                "file": "OS/01. ALMA LINUX/DEPLOYMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/01. ALMA LINUX/3. SQL.md",
+                "file": "OS/01. ALMA LINUX/DEPLOYMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,11 +139,13 @@
   },
   "active": "68437373d9aca050",
   "lastOpenFiles": [
-    "OS/01. ALMA LINUX/1. NETWORK.md",
-    "OS/01. ALMA LINUX/3. SQL.md",
-    "OS/01. ALMA LINUX/0. SETTING UP DEV ENV.md",
+    "OS/01. ALMA LINUX/GUI installation.md",
     "OS/01. ALMA LINUX/commands.md",
     "OS/01. ALMA LINUX/DEPLOYMENT.md",
+    "springboot.service",
+    "OS/01. ALMA LINUX/0. SETTING UP DEV ENV.md",
+    "OS/01. ALMA LINUX/1. NETWORK.md",
+    "OS/01. ALMA LINUX/3. SQL.md",
     "OS/01. ALMA LINUX/Set up Servers/Web Server.md",
     "OS/01. ALMA LINUX/Set up Servers/mySql.md",
     "OS/01. ALMA LINUX/Set up Servers/PHP.md",
@@ -173,8 +175,6 @@
     "02. DebianOS LINUX/Web Server",
     "01. centOS LINUX/NETWORK.md",
     "Projects/Encrypted Chat/pseudo code.md",
-    "Projects/imReading/TO DO.md",
-    "02. DebianOS LINUX",
     "Untitled.canvas"
   ]
 }
