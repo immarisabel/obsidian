@@ -3,7 +3,25 @@
 ip a
 
 sudo systemctl restart network
+
 ```
+
+## open ports to the world:
+
+```
+netstat -na | grep XXXX # check status
+
+lsof -i -P |grep http
+
+firewall-cmd --get-active-zones
+
+firewall-cmd --zone=public --add-port=XXXX/tcp --permanent
+
+firewall-cmd --reload
+
+```
+
+
 
 
 UUIDs : 
