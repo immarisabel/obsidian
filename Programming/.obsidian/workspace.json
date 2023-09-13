@@ -4,58 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8890e9fcfb576f4f",
-        "type": "split",
+        "id": "0f97f8b1a26be486",
+        "type": "tabs",
         "children": [
           {
-            "id": "0f97f8b1a26be486",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1d8910827635eab4",
-                "type": "leaf",
-                "state": {
-                  "type": "meld-encrypted-file-content-view",
-                  "state": {
-                    "file": "Encrypted/Databases.encrypted"
-                  }
-                }
+            "id": "dd0352c3c9ad6de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/01. ALMA LINUX/DEPLOYMENT.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "6e3836af996c6b7c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68437373d9aca050",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "OS/01. ALMA LINUX/0.0 LET'S START!.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2ac6e8de498f2413",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "virtualmin.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "1d8910827635eab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "virtualmin.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,26 +55,26 @@
             }
           },
           {
-            "id": "0491262023d5297f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#server",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "177d82cb52a004f8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "0491262023d5297f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -121,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encrypted/Databases.encrypted",
+                "file": "OS/01. ALMA LINUX/DEPLOYMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,24 +147,25 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "1d8910827635eab4",
+  "active": "dd0352c3c9ad6de2",
   "lastOpenFiles": [
+    "OS/01. ALMA LINUX/commands.md",
+    "OS/01. ALMA LINUX/DEPLOYMENT.md",
+    "OS/01. ALMA LINUX/java.md",
+    "OS/01. ALMA LINUX/jenkins.md",
+    "OS/01. ALMA LINUX/Remote access.md",
+    "OS/01. ALMA LINUX/0.0 LET'S START!.md",
+    "Encrypted/Databases.encrypted",
     "OS/01. ALMA LINUX/3. SQL.md",
     "OS/01. ALMA LINUX/centOS.pdf",
     "OS/01. ALMA LINUX/1. NETWORK.md",
-    "OS/01. ALMA LINUX/commands.md",
-    "OS/01. ALMA LINUX/0.0 LET'S START!.md",
     "OS/01. ALMA LINUX/0. SETTING UP DEV ENV.md",
-    "OS/01. ALMA LINUX/Remote access.md",
-    "OS/01. ALMA LINUX/jenkins.md",
     "virtualmin.md",
-    "OS/01. ALMA LINUX/java.md",
     "Projects/ActivityPub implementation/Resources.md",
     "OS/01. ALMA LINUX/Untitled.md",
     "Projects/imReading/database.md",
     "References/browser terminal.md",
     "References/Spring boot - Deploying on Linux.md",
-    "OS/01. ALMA LINUX/DEPLOYMENT.md",
     "OS/01. ALMA LINUX/GUI installation.md",
     "springboot.service",
     "OS/01. ALMA LINUX/Set up Servers/Web Server.md",
@@ -207,7 +184,6 @@
     "02. DebianOS LINUX/Packages to install.md",
     "Encrypted",
     "References",
-    "02. DebianOS LINUX/Web Server",
     "Untitled.canvas"
   ]
 }

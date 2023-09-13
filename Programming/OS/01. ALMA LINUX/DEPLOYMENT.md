@@ -43,3 +43,72 @@ path for jar : /usr/share/java/
 ```
 sudo ln -s  /usr/share/javasystemctl daemon-reload/springboot.jar /etc/init.d/springboot
 ```
+
+make sub-server in webmin
+upload jar to home
+
+then
+
+configure:
+https://www.baeldung.com/spring-boot-app-as-a-service
+
+` /etc/systemd/system/myapp.service 
+```
+
+[Unit] 
+Description=A Spring Boot application 
+After=syslog.target 
+
+[Service] 
+User=OWNER 
+ExecStart=/path/to/your-app.jar SuccessExitStatus=143 
+
+[Install] WantedBy=multi-user.target
+
+```
+
+
+`/home/{user}/.config/upstart`
+```
+
+description "Some Spring Boot application"
+
+respawn # attempt service restart if stops abruptly
+
+exec java -jar /path/to/your-app.jar
+
+```
+
+redirect:
+```shell
+iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-ports 8080
+```
+
+to auto start
+
+```
+
+sudo systemctl enable myapp
+sudo systemctl start myapp
+sudo systemctl status myapp
+
+# Fail?
+
+ls -l /path/to/myapp.jar 
+
+# red?
+chmod +x /path/to/myapp.jar 
+ls -l /path/to/myapp.jar 
+
+#green?
+
+sudo systemctl daemon-reload
+
+sudo systemctl enable myapp
+sudo systemctl start myapp
+sudo systemctl status myapp
+
+```
+
+
+
