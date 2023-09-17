@@ -67,18 +67,30 @@ ExecStart=/path/to/your-app.jar SuccessExitStatus=143
 
 ```
 
-
-`/home/{user}/.config/upstart`
 ```
+sudo chown root:root /home/vm/public_html/demo/0/demo.jar
+sudo chmod 500 /home/vm/public_html/demo/0/demo.jar
+sudo chown root:root /home/vm/public_html/demo/1/demo.jar
+sudo chmod 500 /home/vm/public_html/demo/1/demo.jar
+sudo chown root:root /home/vm/public_html/demo/2/demo.jar
+sudo chmod 500 /home/vm/public_html/demo/2/demo.jar
+sudo chown root:root /home/vm/public_html/demo/3/demo.jar
+sudo chmod 500 /home/vm/public_html/demo/3/demo.jar
 
-description "Some Spring Boot application"
 
-respawn # attempt service restart if stops abruptly
 
-exec java -jar /path/to/your-app.jar
+ sudo ln -s /home/vm/public_html/demo/0/demo.jar /etc/init.d/demo1
+ sudo ln -s /home/vm/public_html/demo/1/demo.jar /etc/init.d/demo2
+ sudo ln -s /home/vm/public_html/demo/2/demo.jar /etc/init.d/demo3
+ sudo ln -s /home/vm/public_html/demo/3/demo.jar /etc/init.d/demo4
+
+
+sudo service demo1 start
+sudo service demo2 start
+sudo service demo3 start
+sudo service demo4 start
 
 ```
-
 redirect:
 ```shell
 iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-ports 8080
@@ -88,9 +100,21 @@ to auto start
 
 ```
 
-sudo systemctl enable myapp
-sudo systemctl start myapp
-sudo systemctl status myapp
+sudo systemctl enable demo1
+sudo systemctl start demo1
+sudo systemctl status demo1
+
+sudo systemctl enable demo2
+sudo systemctl start demo2
+sudo systemctl status demo2
+sudo systemctl enable demo3
+sudo systemctl start demo3
+sudo systemctl status demo3
+sudo systemctl enable demo4
+sudo systemctl start demo4
+sudo systemctl status demo4
+
+sudo service demo1
 
 # Fail?
 
@@ -110,5 +134,19 @@ sudo systemctl status myapp
 
 ```
 
+
+
+# external config file
+https://www.baeldung.com/spring-properties-file-outside-jar
+## 2. Using the Default Location[](https://www.baeldung.com/spring-properties-file-outside-jar#app-properties)
+
+By convention, Spring Boot looks for an externalized configuration file — _application.properties_ or _application.yml_ — in four predetermined locations in the following order of precedence:
+
+- A _/config_ subdirectory of the current directory
+- The current directory
+- A classpath _/config_ package
+- The classpath root
+
+Therefore, **a property defined in _application.properties_ and placed in the _/config_ subdirectory of the current directory will be loaded.** This will also override properties in other locations in case of a collision.
 
 

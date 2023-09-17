@@ -1,0 +1,7 @@
+- [ ] finish my API project
+- [ ] apply spring security to all projects with oAuth
+- [ ] set up projects subdomains
+- [ ] set up a subserver per project
+- [ ] deploy a project per server
+- [ ] proxy them to port 80
+- [ ] set up front page intro
