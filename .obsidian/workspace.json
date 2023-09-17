@@ -120,6 +120,16 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "e1d31b4f106de127",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
